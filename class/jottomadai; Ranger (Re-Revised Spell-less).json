@@ -513,10 +513,10 @@
 										"type": "entries",
 										"name": "Animal Companion",
 										"entries": [
-											"At 3rd level, you learn to use your magic to create a powerful bond with a creature of the natural world.",
-											"With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you call forth an animal from the wilderness to serve as your faithful companion. You normally select you companion from among the following animals: an ape, a black bear, a boar, a giant badger, a giant weasel, a mule, a panther, or a wolf. However, your DM might pick one of these animals for you, based on the surrounding terrain and on what types of creatures would logically be present in the area.",
+											"At 3rd level, you learn to use your skill to create a powerful bond with a creature of the natural world.",
+											"With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you search out and bond with an animal from the wilderness to serve as your faithful companion. You normally select you companion from among the following animals: an ape, a black bear, a boar, a giant badger, a giant weasel, a mule, a panther, or a wolf. However, your DM might pick one of these animals for you, based on the surrounding terrain and on what types of creatures would logically be present in the area.",
 											"At the end of the 8 hours, your animal companion appears and gains all the benefits of your Companion's Bond ability. You can have only one animal companion at a time.",
-											"If your animal companion is ever slain, the magical bond you share allows you to return it to life. With 8 hours of work and the expenditure of 25 gp worth of rare herbs and fine food, you call forth your companion's spirit and use your magic to create a new body for it. You can return an animal companion to life in this manner even if you do not possess any part of its body.",
+											"If your animal companion is ever slain, the personal bond you share, and deep natural knowledge allows you to retain its spirits connection to the earth. With 8 hours of work and the expenditure of [??] gp worth of rare [??], you call forth your companion's spirit and use your magic to create a new body for it. You can return an animal companion to life in this manner even if you do not possess any part of its body.",
 											"If you use this ability to return a former animal companion to life while you have a current animal companion, your current companion leaves you and is replaced by the restored companion."
 										]
 									},
@@ -839,7 +839,7 @@
 														"type": "entries",
 														"name": "Evasion",
 														"entries": [
-															"When you are subjected to an effect, such as a red dragon's fiery breath or a {@spell lightning bolt} spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on a saving throw, and only half damage if you fail"
+															"When you are subjected to an effect, such as a blast of fire or a {@spell lightning bolt} spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on a saving throw, and only half damage if you fail"
 														]
 													}
 												]
@@ -884,7 +884,7 @@
 							{
 								"name": "Deep Stalker Conclave (UA)",
 								"entries": [
-									"Most folk descend into the depths of the Underdark only under the most pressing conditions, undertaking some desperate quest or following the promise of vast riches. All too often, evil festers beneath the earth unnoticed, and rangers of the Deep Stalker Conclave strive to uncover and defeat such threats before they can reach the surface.",
+									"Most folk descend into the depths of the dark only under the most pressing conditions, undertaking some desperate quest or following the promise of vast riches. All too often, evil festers beneath the earth unnoticed, and rangers of the Deep Stalker Conclave strive to uncover and defeat such threats before they can reach the surface.",
 									{
 										"type": "entries",
 										"name": "Deep Stalker Magic",
